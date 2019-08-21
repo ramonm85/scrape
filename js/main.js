@@ -17,7 +17,10 @@ $(document).ready(function(){
         else{
             $(".nav").removeClass("sticky");
         }
-    })
+    });
+    
+    
                   
                   
                   });
+

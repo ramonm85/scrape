@@ -453,4 +453,7 @@ img {
 #work{
     padding: 200px;
 }
-
+@media screen and (min-width:10px) and (max-width:640px) {
+.leftSideBar{display:none !important;}
+.rightSideBar{display:none !important;}
+}
